@@ -1,0 +1,36 @@
+Conteúdo dos Exercícios:
+
+MODULO I
+
+01 - Apresentação do HTML
+02 - Parágrafos
+03 - Teste de imagens
+04 - Favicon
+06 - Hierarquia de Títulos
+07 - Exemplo de Semântica
+08.1 - Formatação de Textos
+08.2 - Outras Formatações
+09 - Listas HTML
+10 - Trabalhando com Links
+11 - Mídia em HTML
+12 - Vídeo com HTML
+13 - Estilos inline
+14 - Estilos internos
+15 - estilos externos
+
+MODULO II
+
+16
+17
+18
+19
+20
+
+MODULO III
+
+22
+23
+
+MODULO IV
+
+26
