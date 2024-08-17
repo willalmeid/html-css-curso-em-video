@@ -4,12 +4,6 @@
  Curso gratuito promovido pelo Curso em Vídeo para ensino de tecnologias WEB<br/>
 </p>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projetos">Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
-</p>
-
 <br>
 
 ## Tecnologias 🤖
