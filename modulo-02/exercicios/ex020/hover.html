@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../../../icons/favicon-william-type3.ico" type="image/x-icon">
+    <title>Exemplo de Hover</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        div > p {
+            display: none;
+        }
+
+        div:hover {
+            color: red;
+        }
+
+        div:hover  p {
+            width: 300px;
+            display: block;
+            color: white;
+            background-color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Exemplo dehover</h1>
+    <p>Passe o mouse sobre o texto abaixo</p>
+    <div>
+        Passe o mouse aqui
+        <p>TESTO ESCONDIDO...</p>
+    </div>
+    <p>Fim do exemplo</p>
+</body>
+</html>
