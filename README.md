@@ -14,7 +14,7 @@ Esse teve como foco as tecnologias:
 <br>
 
 ## Projetos 💻
-O curso disponibiliza os seguintes projetos: (Em desenvolvimento...)
+O curso disponibiliza os seguintes projetos:
 - <a href="https://willalmeid.github.io/projeto-android/">Projeto Android</a>
 - <a href="https://willalmeid.github.io/projeto-cordel-moderno/">Projeto Cordel Moderno</a>
 - <a href="https://willalmeid.github.io/projeto-social/">Projeto Redes Sociais</a>
