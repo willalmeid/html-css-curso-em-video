@@ -23,6 +23,6 @@ O curso disponibiliza os seguintes projetos:
 <br>
 
 ## Licença 📃
-Esse projeto está sob a licença MIT.
+Esse repositório está sob a licença MIT.
 
 ---
