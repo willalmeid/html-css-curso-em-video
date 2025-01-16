@@ -4,6 +4,8 @@
    <img src="./imagens/imagem-preview.jpg">
 </p>
 
+<h2> 🗒️ Descrição do Projeto </h2>
+
 <p>
 	O Projeto Android é um site com a temática baseada no sistema operacional <strong>Android</strong> que apresenta brevemente a história do Mascote do Android.
 </p>
@@ -21,7 +23,9 @@
 
 <h2> 🤖 Tecnologias </h2>
 
- - HTML e CSS
+<p> Esse projeto utilizou as seguinte tecnoloogias </p>
+
+ - HTML e CSS 
  - Git e GitHub
 
 <h2> 📃 Licença </h2>
