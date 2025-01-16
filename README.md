@@ -22,6 +22,7 @@
 <h2> 🤖 Tecnologias </h2>
 
 <p> Esse projeto utilizou as seguinte tecnoloogias </p>
+
  - HTML e CSS
  - Git e GitHub
 
