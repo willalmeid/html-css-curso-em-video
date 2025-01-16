@@ -4,26 +4,31 @@
    <img src="./imagens/imagem-preview.jpg">
 </p>
 
-O Projeto Android é um site com a temática baseada no sistema operacional <strong>Android</strong> que apresenta brevemente a história do Mascote do Android.
+<p>
+	O Projeto Android é um site com a temática baseada no sistema operacional <strong>Android</strong> que apresenta brevemente a história do Mascote do Android.
+</p>
 
 <br>
 
-Este foi o primeiro projeto do curso de HTML & CSS, projetado por <a href="https://www.instagram.com/gustavoguanabara/">Gustavo Guanabara</a> e realizado no site do <a href="https://www.cursoemvideo.com/">CursoemVideo</a>.
+<p>
+	Este foi o primeiro projeto do curso de HTML & CSS, projetado por <a href="https://www.instagram.com/gustavoguanabara/">Gustavo Guanabara</a> e realizado no site do <a href="https://www.cursoemvideo.com/">CursoemVideo</a>.
+</p>
 
 <br>
 
 <p align="center"><a href="https://willalmeid.github.io/projeto-android/">Acesse o projeto</a></p>
 
 
-## 🤖 Tecnologias
+<h2> 🤖 Tecnologias </h2>
 
-Esse projeto utilizou as seguinte tecnoloogias:
  - HTML e CSS
  - Git e GitHub
 
-## 📃 Licença
+<h2> 📃 Licença </h2>
 
-Esse projeto está sob a licença MIT.
+<p>
+	Esse projeto está sob a licença MIT.
+</p>
 
 ---
 
