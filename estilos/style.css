@@ -1,5 +1,6 @@
 @charset "UTF-8";
 
+<<<<<<< HEAD
 /* 
     Warna Dominan: #102127
 
@@ -24,25 +25,55 @@
     --color-3-hover: #6e3814;
     --color-4: #5f4031;
     --color-4-bg: #d2a79d;
+=======
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap");
+
+:root {
+    --font1: "Amatic SC", cursive;
+    justify-content: space-evenly;
+>>>>>>> temp-projeto-social
 }
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+<<<<<<< HEAD
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
         Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+=======
+>>>>>>> temp-projeto-social
 }
 
 html,
 body {
+<<<<<<< HEAD
     width: 100vw;
     height: 100vh;
     background-color: var(--color-main);
+=======
+    width: 100%;
+    height: 100vh;
+}
+
+body {
+    background: transparent url(../imagens/fundo.jpg) no-repeat center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+header {
+    height: 5%;
+    padding-top: 20px;
+    text-align: center;
+    font-family: var(--font1);
+    font-size: 2em;
+>>>>>>> temp-projeto-social
 }
 
 main {
     position: relative;
+<<<<<<< HEAD
     width: 100vw;
     height: 100vh;
 }
@@ -166,4 +197,46 @@ form a.botao:hover {
 
 form a.botao i {
     font-size: 0.8em;
+=======
+    height: 90%;
+}
+
+section#telefone {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    width: 322px;
+    height: 652px;
+    background: transparent url(../imagens/frame-iphone.png) no-repeat;
+}
+
+iframe#tela {
+    position: relative;
+    top: 80px;
+    left: 22px;
+
+    width: 267px;
+    height: 471px;
+}
+
+section#redes-sociais {
+    text-align: right;
+}
+
+section#redes-sociais a img {
+    width: 50px;
+    margin: 10px;
+    margin-right: 25px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+}
+
+section#redes-sociais a img:hover {
+    border: 2px solid rgba(255, 255, 255, 0.6);
+    transform: translate(2px, 1px);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.6);
+    transition: transform 0.7s, border 0.5s;
+>>>>>>> temp-projeto-social
 }
