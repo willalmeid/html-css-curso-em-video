@@ -15,10 +15,10 @@
 
 <p> O curso disponibiliza os seguintes projetos: </p>
 
--   <a href="https://willalmeid.github.io/html-css-curso-em-video/projetos/projeto-android/">Projeto Android</a>
--   <a href="https://willalmeid.github.io/html-css-curso-em-video/projetos/projeto-cordel-moderno/">Projeto Cordel Moderno</a>
--   <a href="https://willalmeid.github.io/html-css-curso-em-video/projetos/projeto-social/">Projeto Redes Sociais</a>
--   <a href="https://willalmeid.github.io/html-css-curso-em-video/projetos/projeto-login/">Projeto Login</a>
+-   <a href="https://github.com/willalmeid/html-css-curso-em-video/tree/main/projetos/projeto-android">Projeto Android</a>
+-   <a href="https://github.com/willalmeid/html-css-curso-em-video/tree/main/projetos/projeto-cordel-moderno">Projeto Cordel Moderno</a>
+-   <a href="https://github.com/willalmeid/html-css-curso-em-video/tree/main/projetos/projeto-social">Projeto Redes Sociais</a>
+-   <a href="https://github.com/willalmeid/html-css-curso-em-video/tree/main/projetos/projeto-login">Projeto Login</a>
 
 <h2> 📃 Licença </h2>
 
