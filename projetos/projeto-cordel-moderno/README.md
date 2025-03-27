@@ -16,7 +16,7 @@
 
 <br>
 
-<p align="center"><a href="https://willalmeid.github.io/projeto-cordel-moderno/">Acesse o projeto</a></p>
+<p align="center"><a href="https://willalmeid.github.io/html-css-curso-em-video/projetos/projeto-cordel-moderno/">Acesse o projeto</a></p>
 
 
 <h2> 🤖 Tecnologias </h2>
