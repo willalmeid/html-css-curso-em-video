@@ -16,7 +16,7 @@
 
 <br>
 
-<p align="center"><a href="https://willalmeid.github.io/projeto-login/">Acesse o projeto</a></p>
+<p align="center"><a href="https://willalmeid.github.io/html-css-curso-em-video/projetos/projeto-login/">Acesse o projeto</a></p>
 
 
 <h2> 🤖 Tecnologias </h2>
